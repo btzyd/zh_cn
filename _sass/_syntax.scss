@@ -27,11 +27,24 @@ div.highlighter-rouge, figure.highlight {
 
   .highlight {
     margin: 0;
+    padding: 0; /* 确保内部无额外内边距 */
     font-family: $monospace;
     font-size: $type-size-7;
-    line-height: 1.8;
+    line-height: 1.8; /* 与外部保持一致的行高 */
   }
 }
+
+.highlighter-rouge{
+  background-color: #03228d;
+  color: white;
+  margin-bottom: 0em;
+  padding: 0em; /* 添加适当的内边距 */
+  font-size: $type-size-7;
+  line-height: 1.8; /* 明确设置行高 */
+  border: 0px solid $border-color;
+  border-radius: 0;
+}
+
 
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
