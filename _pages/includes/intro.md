@@ -5,7 +5,7 @@
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# <img src='images/android-chrome-192x192.png' style='height: 1em;'> About Me
+# <img src='images/android-chrome-192x192.png' style='height: 1em;'> About Me {#about}
 
 I am Yudong Zhang (张宇东), a PhD candidate in the Department of Electronic Engineering at Tsinghua University, under the supervision of Professor [Wang Yu (汪玉)](https://web.ee.tsinghua.edu.cn/wangyu/en/). I completed my bachelor's degree in the same department at Tsinghua University in 2020, advised by Professor [Chen Jiansheng (陈健生)](https://jschenthu.weebly.com/).
 

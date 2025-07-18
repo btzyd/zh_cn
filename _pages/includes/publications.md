@@ -1,5 +1,5 @@
 
-# 📝 Publications
+# 📝 Publications {#publications}
 (* indicates equal contribution, † indicates corresponding author.)
 
 ## Safety of Large Models

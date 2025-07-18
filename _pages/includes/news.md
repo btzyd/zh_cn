@@ -1,4 +1,4 @@
-# 🔥 News
+# 🔥 News {#news}
 - *2025.07*: 🎉 One paper ([DHCP](https://arxiv.org/abs/2411.18659)) are accepted by ACMMM 2025.
 - *2025.04*: I was recognized as Machine Learning Platform Department Outstanding Intern Award, Technology and Engineering Group (TEG), Tencent.
 - *2025.01*: 🎉 One paper ([QAVA](https://aclanthology.org/2025.naacl-long.512/)) are accepted by NAACL 2025.

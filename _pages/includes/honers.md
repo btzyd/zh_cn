@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards {#honors}
 ## Highlights Honors
 - *2025.04* Tencent TEG Machine Learning Platform Department Outstanding Intern Award
 - *2024.12* [Tsinghua University 2024 Student of the Year](https://mp.weixin.qq.com/s/UxusF_TYsDh2ZioE6hVrEw) (10 students in Tsinghua each year)

@@ -1,4 +1,4 @@
-# 🔧 Patent
+# 🔧 Patent {#patent}
 
 ## Chinese patent (Patent granted)
 - Kubernetes container access methods, devices, computing devices, and storage media (2024104387144), Yu Wang, **Yudong Zhang**.
