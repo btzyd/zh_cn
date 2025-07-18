@@ -3,4 +3,3 @@ push.sh
 .DS_Store
 vendor/
 .sass-cache/
-.github/
