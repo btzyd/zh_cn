@@ -11,8 +11,8 @@ I am Yudong Zhang (张宇东), a PhD candidate in the Department of Electronic E
 
 My research focuses on enhancing the safety and efficiency of vision-language models. To date, I have authored or co-authored 10 peer-reviewed papers, including 4 first-author publications in academic conferences such as AAAI, ACM Multimedia (ACMMM), and NAACL, with <a href='https://scholar.google.com/citations?user=6bsN3RYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations to date.
 
-Currently, I am an intern at Tencent's Hunyuan team, where I contribute to the development of large language model pre-training technologies.
+Currently, I am an intern at Tencent's Hunyuan team, mentored by [Xingwu Sun (孙兴武)](https://scholar.google.com/citations?user=rjC51OsAAAAJ) and [Ruobing Xie (谢若冰)](https://ruobingxie.github.io/). I focus on pre-training of large language models.
 
 If you are interested in academic collaboration or would like to discuss potential research opportunities, please feel free to reach out via email [zhangyd16@mails.tsinghua.edu.cn](mailto:zhangyd16@mails.tsinghua.edu.cn).
 
-I am seeking job opportunities for June 2026.
+I will be graduating in June 2026 and I am looking for job opportunities.
