@@ -1,14 +1,14 @@
-# 🔧 Patent {#patent}
+# 🔧 专利 {#patent}
 
-## Chinese patent (Patent granted)
-- Kubernetes container access methods, devices, computing devices, and storage media (2024104387144), Yu Wang, **Yudong Zhang**.
-- Distributed Task Dynamic Service Discovery Method, Device, and Task Training System (2024104387341), Yu Wang, **Yudong Zhang**.
-- Methods and apparatus for multi-user collaborative use of GPU computing capabilities (2024104384428), Yu Wang, **Yudong Zhang** (Inventor registration error, change in progress).
-- Sample purification methods, apparatus, equipment, and media (2024109947320), **Yudong Zhang**, Ruobing Xie, Xingwu Sun, Zhanhui Kang.
-- Model hallucination detection method, apparatus, device, storage medium, and program product (2024110474366), **Yudong Zhang**, Ruobing Xie, Xingwu Sun, Zhanhui Kang.
+## 中国专利（已授权）
+- Kubernetes 容器访问方法、装置、计算设备及存储介质（2024104387144），汪玉，**张宇东**。
+- 分布式任务动态服务发现方法、装置及任务训练系统（2024104387341），汪玉，**张宇东**。
+- 多用户协同使用图形处理器算力的方法及装置（2024104384428），汪玉，**张宇东**（发明人登记错误，申请变更中）。
+- 样本净化方法、装置、设备及介质（2024109947320），**张宇东**，谢若冰，孙兴武，康战辉。
+- 模型幻觉的检测方法、装置、设备、存储介质和程序产品（2024110474366），**张宇东**，谢若冰，孙兴武，康战辉。
 
-## Chinese patent (Patent pending)
-- Adversarial example image generation method, apparatus, computer device, and storage medium (2024110458537), **Yudong Zhang**, Ruobing Xie, Xingwu Sun, Zhanhui Kang.
-- Text generation method, apparatus, device, and readable storage medium (2024109116223), **Yudong Zhang**, Ruobing Xie, Xingwu Sun, Zhanhui Kang.
-- An image processing method and related apparatus (2024110598759), **Yudong Zhang**, Ruobing Xie, Xingwu Sun, Zhanhui Kang.
-- Image processing methods, devices, equipment, readable storage media, and program products (2024111072007), **Yudong Zhang**, Ruobing Xie, Xingwu Sun, Zhanhui Kang.
+## 中国专利（申请中）
+- 对抗样本图像生成方法、装置、计算机设备和存储介质（2024110458537），**张宇东**，谢若冰，孙兴武，康战辉。
+- 文本生成方法、装置、设备及可读存储介质（2024109116223），**张宇东**，谢若冰，孙兴武，康战辉。
+- 一种图像处理方法及相关设备（2024110598759），**张宇东**，谢若冰，孙兴武，康战辉。
+- 图像处理方法、装置、设备、可读存储介质及程序产品（2024111072007），**张宇东**，谢若冰，孙兴武，康战辉。

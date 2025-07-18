@@ -1,4 +1,4 @@
-# 📖 Educations {#educations}
-- *2020.09 - now*, PhD student, Department of Electronic Engineering, Tsinghua University, Beijing.
-- *2016.09 - 2020.06*, Undergraduate, Department of Electronic Engineering, Tsinghua University, Beijing.
-- *2013.09 - 2016.06*, Baotou No. 95 Middle School (Baogang No. 1 Middle School), Baotou, Inner Mongolia.
+# 📖 教育经历 {#educations}
+- *2020.09 - 至今*，直博生，清华大学电子工程系，北京市。
+- *2016.09 - 2020.06*，本科生，清华大学电子工程系，北京市。
+- *2013.09 - 2016.06*，包头市第九十五中学（包钢第一中学），内蒙古包头市。

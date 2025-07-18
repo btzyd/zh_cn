@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yudong"
-description              : "PhD candidate at Tsinghua University. "
-repository               : "btzyd/btzyd.github.io"
+title                    : "张宇东"
+description              : "清华大学在读直博生"
+repository               : "btzyd/zh_cn"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yudong Zhang"
+  name             : "张宇东"
   avatar           : "images/yudong.png"
-  bio              : "张宇东"
-  location         : "Beijing, China"
+  bio              : "Yudong Zhang"
+  location         : "中国北京"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6bsN3RYAAAAJ"

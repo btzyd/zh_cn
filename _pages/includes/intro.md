@@ -5,14 +5,14 @@
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# <img src='images/android-chrome-192x192.png' style='height: 1em;'> About Me {#about}
+# <img src='images/android-chrome-192x192.png' style='height: 1em;'> 个人简介 {#about}
 
-I am Yudong Zhang (张宇东), a PhD candidate in the Department of Electronic Engineering at Tsinghua University, under the supervision of Professor [Wang Yu (汪玉)](https://web.ee.tsinghua.edu.cn/wangyu/en/). I completed my bachelor's degree in the same department at Tsinghua University in 2020, advised by Professor [Chen Jiansheng (陈健生)](https://jschenthu.weebly.com/).
+我是张宇东，清华大学电子工程系博士生，导师是[汪玉](https://web.ee.tsinghua.edu.cn/wangyu/en/)教授。我于2020年在清华大学电子工程系获得学士学位，导师是[陈健生](https://jschenthu.weebly.com/)教授。
 
-My research focuses on enhancing the safety and efficiency of vision-language models. To date, I have authored or co-authored 10 peer-reviewed papers, including 4 first-author publications in academic conferences such as AAAI, ACM Multimedia (ACMMM), and NAACL, with <a href='https://scholar.google.com/citations?user=6bsN3RYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations to date.
+我的研究重点是提升视觉语言模型的安全性和效率。迄今为止，我已撰写或合作撰写了10篇同行评审论文，其中包括4篇在AAAI、ACM-MM和NAACL等学术会议上以第一作者身份发表的论文，这些论文的引用次数为<a href='https://scholar.google.com/citations?user=6bsN3RYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
-Currently, I am an intern at Tencent's Hunyuan team, mentored by [Xingwu Sun (孙兴武)](https://scholar.google.com/citations?user=rjC51OsAAAAJ) and [Ruobing Xie (谢若冰)](https://ruobingxie.github.io/). I focus on pre-training of large language models.
+我目前是腾讯混元团队的实习生，导师是[孙兴武](https://scholar.google.com/citations?user=rjC51OsAAAAJ)和[谢若冰](https://ruobingxie.github.io/)。我专注于大型语言模型的预训练。
 
-If you are interested in academic collaboration or would like to discuss potential research opportunities, please feel free to reach out via email [zhangyd16@mails.tsinghua.edu.cn](mailto:zhangyd16@mails.tsinghua.edu.cn).
+如果您对学术合作感兴趣或希望探讨潜在的研究机会，请随时通过电子邮件联系我[zhangyd16@mails.tsinghua.edu.cn](mailto:zhangyd16@mails.tsinghua.edu.cn)。
 
-I will be graduating in June 2026 and I am looking for job opportunities.
+我将于2026年6月毕业，正在寻找工作机会。

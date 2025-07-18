@@ -1,8 +1,8 @@
-# ✍️ Academic Service {#service}
+# ✍️ 学术服务 {#service}
 
-## Reviewer
+## 审稿人
 - CVPR
 - ICCV
 - ACM-MM
 - ICLR
-- ARR (ACL/EMNLP/NAACL)
+- ARR（ACL/EMNLP/NAACL）
