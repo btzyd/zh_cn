@@ -9,7 +9,7 @@
 
 我是张宇东，清华大学电子工程系博士生，导师是[汪玉](https://web.ee.tsinghua.edu.cn/wangyu/en/)教授。我于2020年在清华大学电子工程系获得学士学位，导师是[陈健生](https://jschenthu.weebly.com/)教授。
 
-我的研究重点是提升视觉语言模型的安全性和效率。迄今为止，我已撰写或合作撰写了10篇同行评审论文，其中包括4篇在AAAI、ACM-MM和NAACL等学术会议上以第一作者身份发表的论文，这些论文的引用次数为<a href='https://scholar.google.com/citations?user=6bsN3RYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
+我的研究重点是提升视觉语言模型的安全性和效率。迄今为止，我已发表了10篇论文，其中包括4篇以第一作者身份发表在AAAI、ACM-MM和NAACL等学术会议上，这些论文的引用次数为<a href='https://scholar.google.com/citations?user=6bsN3RYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
 我目前是腾讯混元团队的实习生，导师是[孙兴武](https://scholar.google.com/citations?user=rjC51OsAAAAJ)和[谢若冰](https://ruobingxie.github.io/)。我专注于大型语言模型的预训练。
 
