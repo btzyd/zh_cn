@@ -1,8 +1,8 @@
 # 🎖 荣誉奖项 {#honors}
 ## 高亮荣誉
 - *2025.04* 腾讯TEG机器学习平台部优秀实习生奖
-- *2024.12* [清华大学2024 年学生年度人物](https://mp.weixin.qq.com/s/UxusF_TYsDh2ZioE6hVrEw)（每年评选不超过10人）
-- *2023.12* [清华大学林枫辅导员奖](https://mp.weixin.qq.com/s/PMNvgvhhqytBldTRipZbqA)（清华大学"双肩挑"政治辅导员最高荣誉）
+- *2024.12* [清华大学2024年学生年度人物](https://mp.weixin.qq.com/s/UxusF_TYsDh2ZioE6hVrEw)（每年评选不超过10人）
+- *2023.12* [清华大学林枫辅导员奖](https://mp.weixin.qq.com/s/PMNvgvhhqytBldTRipZbqA)（清华大学“双肩挑”政治辅导员最高荣誉）
 - *2018.12* [清华大学蒋南翔奖学金](https://www.tsinghua.edu.cn/info/1176/27038.htm)（清华大学大三年级本科生最高奖学金）
 - *2022.10* [清华大学电子系陆大䋮·刘润生优秀助教奖特等奖](https://www.ee.tsinghua.edu.cn/info/1076/3903.htm)（清华电子系助教最高奖）
 - *2023.10* [清华大学优秀学生干部标兵](https://mp.weixin.qq.com/s/dwifXdn8o5pKRrRBztKdOg)（每年评选不超过30人）
@@ -11,7 +11,7 @@
 - *2025.04* 作为第一完成人完成的项目获得清华大学第三十五届学生实验室建设贡献奖一等奖和三等奖
 
 ## 其他荣誉
-- *2022.12* 清华大学"一二·九"辅导员奖
+- *2022.12* 清华大学“一二·九”辅导员奖
 - *2024.12* [清华大学电子系研究生“电子之星”](https://www.ee.tsinghua.edu.cn/info/1445/4297.htm)（每年评选不超过5人）
 - *2019.12* [清华大学电子系本科生“电子之星”](https://www.ee.tsinghua.edu.cn/info/1076/4813.htm)（每年评选不超过5人）
 - 清华大学综合优秀奖学金（本科期间2次，博士期间4次）
