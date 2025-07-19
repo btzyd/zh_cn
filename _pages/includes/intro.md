@@ -7,7 +7,7 @@
 
 # <img src='images/android-chrome-192x192.png' style='height: 1em;'> 个人简介 {#about}
 
-我是张宇东，清华大学电子工程系博士生，导师是[汪玉](https://web.ee.tsinghua.edu.cn/wangyu/en/)教授。我于2020年在清华大学电子工程系获得学士学位，导师是[陈健生](https://jschenthu.weebly.com/)教授。
+我是张宇东，[清华大学](https://www.tsinghua.edu.cn/)[电子工程系](https://www.ee.tsinghua.edu.cn/)[NICS-EFC实验室](https://nicsefc.ee.tsinghua.edu.cn/)博士生，导师是[汪玉教授](https://web.ee.tsinghua.edu.cn/wangyu/en/)。我于2020年在[清华大学](https://www.tsinghua.edu.cn/)[电子工程系](https://www.ee.tsinghua.edu.cn/)获得学士学位，导师是[陈健生教授](https://jschenthu.weebly.com/)。
 
 我的研究重点是提升视觉语言模型的安全性和效率。迄今为止，我已发表了10篇论文，其中4篇以第一作者身份发表在AAAI、ACM-MM和NAACL等学术会议上，这些论文的引用次数为<a href='https://scholar.google.com/citations?user=6bsN3RYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
