@@ -9,11 +9,12 @@
 - `ACM-MM 2025` DHCP: Detecting Hallucinations by Cross-modal Attention Pattern in Large Vision-Language Models，**张宇东**，谢若冰†，孙兴武，黄翌青，陈健生†，康战辉，王迪，汪玉† \| [**论文**](https://arxiv.org/abs/2411.18659) \| [**代码**](https://github.com/btzyd/DHCP)
 - `ACM-MM 2025` <span style="color:red">(Oral)</span> Fighting Fire with Fire (F3): A Training-free and Efficient Visual Adversarial Example Purification Method in LVLMs，**张宇东**，谢若冰†，黄翌青，陈健生†，孙兴武，康战辉，王迪，汪玉† \| [**论文**](https://arxiv.org/abs/2506.01064) \| [**代码**](https://github.com/btzyd/F3)
 
+- `EMNLP 2025` (Findings) The Security Threat of Compressed Projectors in Large Vision-Language Models，**张宇东**，谢若冰，孙兴武，陈健生，康战辉，王迪，汪玉 \| [**论文**](https://arxiv.org/abs/2506.00534)
+
 ## 预训练高效性
 - `AAAI 2025` Enhancing Contrastive Learning Inspired by the Philosophy of "the Blind Men and the Elephant"，**张宇东**，谢若冰†，陈健生†，孙兴武，康战辉，汪玉† \| [**论文**](https://ojs.aaai.org/index.php/AAAI/article/view/34425) \| [**代码**](https://github.com/btzyd/JointCrop) \| [**视频**](https://www.bilibili.com/video/BV1xD5hzSEin)
 
-## 预印本
-- `Arxiv` The Security Threat of Compressed Projectors in Large Vision-Language Models，**张宇东**，谢若冰，孙兴武，陈健生，康战辉，王迪，汪玉 \| [**论文**](https://arxiv.org/abs/2506.00534)
+<!-- ## 预印本 -->
 
 ## 其他（非第一作者）
 - `ACM-MM 2022` 3D Human Mesh Reconstruction by Learning to Sample Joint Adaptive Tokens for Transformers，薛有泽，陈健生†，**张宇东**，于诚，马惠敏，马洪兵 \| [**论文**](https://dl.acm.org/doi/10.1145/3503161.3548133)
