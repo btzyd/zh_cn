@@ -1,4 +1,5 @@
 # 🔥 新闻 {#news}
+- *2025.08*: 🎉 我作为第一作者的论文([TCP](https://arxiv.org/abs/2506.00534))被EMNLP 2025 Findings接收。
 - *2025.08*: 🎉 我作为第一作者的论文([F3](https://arxiv.org/abs/2506.01064))被ACMMM 2025接收为Oral。
 - *2025.07*: 🎉 我作为第一作者的论文([DHCP](https://arxiv.org/abs/2411.18659))被ACMMM 2025接收。
 - *2025.05*: 我被清华大学在Twitter和Facebook报道，详见[Twitter 1](https://x.com/Tsinghua_Uni/status/1925190201896210751), [Twitter 2](https://x.com/Tsinghua_Uni/status/1925662659786965125), [Twitter 3](https://x.com/Tsinghua_Uni/status/1926027983518609890), [Facebook](https://www.facebook.com/share/p/171JbK5ZXo/)。
