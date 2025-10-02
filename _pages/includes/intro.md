@@ -13,6 +13,6 @@
 
 我目前是腾讯混元团队的实习生，导师是[孙兴武](https://scholar.google.com/citations?user=rjC51OsAAAAJ)和[谢若冰](https://ruobingxie.github.io/)。我专注于大型语言模型的预训练。
 
-如果您对学术合作感兴趣或希望探讨潜在的研究机会，请随时通过电子邮件联系我[zhangyd16@mails.tsinghua.edu.cn](mailto:zhangyd16@mails.tsinghua.edu.cn)。
+如果您对学术合作感兴趣或希望探讨潜在的研究机会，请随时通过电子邮件联系我[Email](mailto:zhangyd16@mails.tsinghua.edu.cn)。
 
 我将于2026年6月毕业，正在寻找工作机会。
