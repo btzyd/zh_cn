@@ -11,7 +11,7 @@
 
 我的研究重点是提升视觉语言模型的安全性和效率。迄今为止，我已发表了11篇论文，其中6篇以第一作者身份发表在AAAI、ACM-MM、EMNLP和NAACL等学术会议上，这些论文的引用次数为<a href='https://scholar.google.com/citations?user=6bsN3RYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
-我目前是腾讯混元团队的实习生，导师是[孙兴武](https://scholar.google.com/citations?user=rjC51OsAAAAJ)和[谢若冰](https://ruobingxie.github.io/)。我专注于大型语言模型的预训练。
+我目前是腾讯混元团队的实习生，导师是[孙兴武](https://scholar.google.com/citations?user=rjC51OsAAAAJ)和[谢若冰](https://ruobingxie.github.io/)。我主要关注大语言模型的预训练。
 
 如果您对学术合作感兴趣或希望探讨潜在的研究机会，请随时通过[电子邮件](mailto:zhangyd16@mails.tsinghua.edu.cn)联系我。
 
