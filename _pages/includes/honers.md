@@ -4,6 +4,7 @@
 - *2024.12* [清华大学2024年学生年度人物](https://mp.weixin.qq.com/s/UxusF_TYsDh2ZioE6hVrEw)（每年评选不超过10人）
 - *2023.12* [清华大学林枫辅导员奖](https://mp.weixin.qq.com/s/PMNvgvhhqytBldTRipZbqA)（清华大学“双肩挑”政治辅导员最高荣誉）
 - *2018.12* [清华大学蒋南翔奖学金](https://www.tsinghua.edu.cn/info/1176/27038.htm)（清华大学大三年级本科生最高奖学金）
+- *2025.10* [清华大学电子系陆大䋮·刘润生优秀助教奖特等奖](https://www.ee.tsinghua.edu.cn/info/1076/4934.htm)
 - *2022.10* [清华大学电子系陆大䋮·刘润生优秀助教奖特等奖](https://www.ee.tsinghua.edu.cn/info/1076/3903.htm)
 - *2023.10* [清华大学优秀学生干部标兵](https://mp.weixin.qq.com/s/dwifXdn8o5pKRrRBztKdOg)
 - *2019.11* [清华大学十佳志愿者](https://www.tsinghua.edu.cn/info/1180/53981.htm)（每两年评选不超过10人）

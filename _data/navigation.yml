@@ -21,5 +21,8 @@ main:
   - title: "专利"
     url: "/zh_cn/#patent"
 
+  - title: "教学"
+    url: "/zh_cn/#teaching"
+
   - title: "学术服务"
     url: "/zh_cn/#service"

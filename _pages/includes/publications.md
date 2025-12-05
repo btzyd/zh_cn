@@ -24,4 +24,4 @@
 
 - `Knowledge-Based Systems (KBS)` Image paragraph captioning with topic clustering and topic shift prediction，唐挺，陈健生†，黄翌青，马惠敏，**张宇东**，余宏伟 \| [**论文**](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000364)
 
-- `ICCV 2025` DADet: Safeguarding Image Conditional Diffusion Models against Adversarial and Backdoor Attacks via Diffusion Anomaly Detection，余宏伟，丁鑫龙，李嘉伟，王金隆，**张宇东**，王荣全，马惠敏，陈健生
+- `ICCV 2025` DADet: Safeguarding Image Conditional Diffusion Models against Adversarial and Backdoor Attacks via Diffusion Anomaly Detection，余宏伟，丁鑫龙，李嘉伟，王金隆，**张宇东**，王荣全，马惠敏，陈健生 \| [**论文**](https://openaccess.thecvf.com/content/ICCV2025/html/Yu_DADet_Safeguarding_Image_Conditional_Diffusion_Models_against_Adversarial_and_Backdoor_ICCV_2025_paper.html)
